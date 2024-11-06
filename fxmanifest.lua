@@ -6,8 +6,8 @@ games        {'gta5'}
 
 --[[ Resource Information ]]--
 name         'cdt-lib'
-author       'ChrisToF#8051'
-version      '1.01'
+author       'CDT Dev'
+version      '1.0.0'
 license      'LGPL-3.0-or-later'
 repository   ''
 description  ''

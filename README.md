@@ -4,6 +4,6 @@
 Library which is used in the scripts developed by CDT Dev Fivem.
 
 # Join Dicord for questions
-[https://](https://discord.gg/ae2jAmtQsm)
+[Discord CDT Invitation](https://discord.gg/ae2jAmtQsm)
 
 
